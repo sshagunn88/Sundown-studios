@@ -1,6 +1,6 @@
 # Sundown-studios
 Animated Responsive Website using HTML, CSS & JavaScript | Front-End Minor Project 2024
-This project is a fully responsive animated website built using HTML, CSS, and JavaScript, leveraging GSAP (GreenSock Animation Platform) for smooth animations. Designed as a front-end minor project, this website showcases modern web development techniques and can be a great addition to your portfolio!
+This project is a fully responsive animated website built using HTML, CSS, and JavaScript, leveraging GSAP (GreenSock Animation Platform) for smooth animations. 
 
 ✨ Features
 ✅ Smooth Animations with GSAP – Enhance user experience with dynamic motion effects.
