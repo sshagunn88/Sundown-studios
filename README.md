@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/animated-website.git
+git clone https://github.com/sshagunn08/animated-website.git
 cd animated-website
 Open the index.html file in a browser.
 Customize the animations and styles as needed.
